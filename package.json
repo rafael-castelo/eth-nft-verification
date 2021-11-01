@@ -1,0 +1,21 @@
+{
+  "name": "eth-nft-verification",
+  "version": "1.0.1",
+  "description": "Verify NFT ownership of ERC-721 and ERC-1155 tokens on Ethereum blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nft",
+    "eth",
+    "ethereum",
+    "blockchain",
+    "nft-verification"
+  ],
+  "author": "Rafael Castelo",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.6.0"
+  }
+}
